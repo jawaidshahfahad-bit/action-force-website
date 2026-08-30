@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jawaidshahfahad-bit.github.io/action-force-website-/sitemap.xml
